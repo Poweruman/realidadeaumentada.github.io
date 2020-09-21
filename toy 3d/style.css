@@ -1,0 +1,16 @@
+body {
+width: 50vw;
+height: 50vh;
+margin: 0;
+overflow: hidden;
+display: flex;
+align-items: right;
+justify-content: center;
+
+}
+
+model-viewer {
+width: 500px;
+height: 500px;
+
+}
